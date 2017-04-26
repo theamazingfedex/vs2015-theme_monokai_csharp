@@ -3,4 +3,4 @@ Every version of the awesome color theme Monokai that I've found for Visual Stud
 
 ## Examples:
 #### C#
-![c-sharp example]("https://github.com/theamazingfedex/vs2015-theme_monokai_csharp/blob/master/images/csharp-example.PNG?raw=true")
+![c-sharp example]("http://raw.githubusercontent.com/theamazingfedex/vs2015-theme_monokai_csharp/master/images/csharp-example.PNG")
